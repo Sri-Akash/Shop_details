@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#.NET\\Shop_Details\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDFFE89-AE1D-4E1D-B805-1CDFEF09259F}|Shop_Details.csproj|e:\\c#.net\\shop_details\\view_shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CDFFE89-AE1D-4E1D-B805-1CDFEF09259F}|Shop_Details.csproj|solutionrelative:view_shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDFFE89-AE1D-4E1D-B805-1CDFEF09259F}|Shop_Details.csproj|e:\\c#.net\\shop_details\\shop details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CDFFE89-AE1D-4E1D-B805-1CDFEF09259F}|Shop_Details.csproj|solutionrelative:shop details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDFFE89-AE1D-4E1D-B805-1CDFEF09259F}|Shop_Details.csproj|e:\\c#.net\\shop_details\\view_shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CDFFE89-AE1D-4E1D-B805-1CDFEF09259F}|Shop_Details.csproj|solutionrelative:view_shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CDFFE89-AE1D-4E1D-B805-1CDFEF09259F}|Shop_Details.csproj|e:\\c#.net\\shop_details\\shop details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CDFFE89-AE1D-4E1D-B805-1CDFEF09259F}|Shop_Details.csproj|solutionrelative:shop details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "View_Shop.cs",
+              "DocumentMoniker": "E:\\C#.NET\\Shop_Details\\View_Shop.cs",
+              "RelativeDocumentMoniker": "View_Shop.cs",
+              "ToolTip": "E:\\C#.NET\\Shop_Details\\View_Shop.cs",
+              "RelativeToolTip": "View_Shop.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwDkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:49:28.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop Details.cs",
+              "DocumentMoniker": "E:\\C#.NET\\Shop_Details\\Shop Details.cs",
+              "RelativeDocumentMoniker": "Shop Details.cs",
+              "ToolTip": "E:\\C#.NET\\Shop_Details\\Shop Details.cs",
+              "RelativeToolTip": "Shop Details.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwD0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:17:38.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "View_Shop.cs [Design]",
+              "DocumentMoniker": "E:\\C#.NET\\Shop_Details\\View_Shop.cs",
+              "RelativeDocumentMoniker": "View_Shop.cs",
+              "ToolTip": "E:\\C#.NET\\Shop_Details\\View_Shop.cs [Design]",
+              "RelativeToolTip": "View_Shop.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:07:32.124Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shop Details.cs [Design]",
+              "DocumentMoniker": "E:\\C#.NET\\Shop_Details\\Shop Details.cs",
+              "RelativeDocumentMoniker": "Shop Details.cs",
+              "ToolTip": "E:\\C#.NET\\Shop_Details\\Shop Details.cs [Design]",
+              "RelativeToolTip": "Shop Details.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:59:46.19Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

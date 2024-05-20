@@ -1,0 +1,11 @@
+E:\C#.NET\Shop_Details\bin\Debug\Shop_Details.exe.config
+E:\C#.NET\Shop_Details\bin\Debug\Shop_Details.exe
+E:\C#.NET\Shop_Details\bin\Debug\Shop_Details.pdb
+E:\C#.NET\Shop_Details\obj\Debug\Shop_Details.csproj.AssemblyReference.cache
+E:\C#.NET\Shop_Details\obj\Debug\Shop_Details.Properties.Resources.resources
+E:\C#.NET\Shop_Details\obj\Debug\Shop_Details.csproj.GenerateResource.cache
+E:\C#.NET\Shop_Details\obj\Debug\Shop_Details.csproj.CoreCompileInputs.cache
+E:\C#.NET\Shop_Details\obj\Debug\Shop_Details.exe
+E:\C#.NET\Shop_Details\obj\Debug\Shop_Details.pdb
+E:\C#.NET\Shop_Details\obj\Debug\Shop_Details.Form_View_Shop.resources
+E:\C#.NET\Shop_Details\obj\Debug\Shop_Details.Form_Shop_Details.resources
